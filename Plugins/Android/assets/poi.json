@@ -1,0 +1,28 @@
+{
+  "initial": [//地圖的初始化值
+    {
+      "lat": 29.578762,//初始化的經度
+      "lon": 106.450353,//初始化的緯度
+      "zoom": 21,//初始化放大值，數字越大放越大，極限值是(3~21)
+       "overlook": -45//初始化傾斜度，極限值是(-45~0)
+    }
+  ],
+  "poi": [//poi 創建，要創建幾個poi就複製幾個
+    {
+      "imgURL": "marker1.png",//poi的image，必須先在unity端下載才能使用
+      "title": "鑫記雜貨店",//poi的名字
+      "poiWidth": 150,//poi的長度
+      "poiheight": 150,//poi的寬度
+      "lat": 29.578762,// poi放置的經度
+      "lon": 106.450353//poi放置的緯度
+    },
+    {
+      "imgURL": "annotaion2.png",
+      "title": "海王星科技大厦",
+      "poiWidth": 170,
+      "poiheight": 170,
+      "lat": 29.614649,
+      "lon": 106.508688
+    }
+  ]
+}
