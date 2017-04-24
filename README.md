@@ -1,8 +1,9 @@
 # 居家核心肌力訓練
-KMU (Kaohsiung Medical University)
+Demonstrating core training movement by AR tracking technology.
 
 ## Feature
 - AR demonstration of core training
+- Audio guide
 
 ## Support platform
 iOS / Android
